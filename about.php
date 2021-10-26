@@ -64,9 +64,9 @@
                                             </th>
                                             <th>
                                                 <br>
-                                                Silvia Nur Mahmudah <br>
-                                                1931710054 <br>
-                                                23 Oktober 2021
+                                                Suwanto <br>
+                                                1931710034 <br>
+                                                25 Oktober 2021
                                             </th>
                                         </tr>
                                     </tbody>
@@ -85,7 +85,7 @@
             <footer class="sticky-footer bg-white">
                 <div class="container my-auto">
                     <div class="copyright text-center my-auto">
-                        <span>Copyright &copy; Silvia Nur Mahmudah - <?php echo date('Y') ?></span>
+                        <span>Copyright &copy; Suwanto - <?php echo date('Y') ?></span>
                     </div>
                 </div>
             </footer>
